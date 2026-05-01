@@ -1,0 +1,14 @@
+{
+  "Mains": [
+    {"id": "burger", "name": "Classic Burger", "price": 10.99}
+  ],
+  "Starters": [
+    {"id": "soup", "name": "Soup of the Day", "price": 4.99}
+  ],
+  "Sides": [
+    {"id": "fries", "name": "Fries", "price": 3.49}
+  ],
+  "Desserts": [
+    {"id": "icecream", "name": "Ice Cream", "price": 4.49}
+  ]
+}
